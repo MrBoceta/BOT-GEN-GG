@@ -3,7 +3,7 @@ import random
 import requests
 
 # Substitua pelo token do seu bot do Telegram
-TOKEN = "7751026582:AAFdXUMrw6tI1SVYu6K0BQZRXt6Rtvqwre0"
+TOKEN = "TOKEN_BOT"
 bot = telebot.TeleBot(TOKEN)
 
 # Dicionário para armazenar o estado de cada usuário
